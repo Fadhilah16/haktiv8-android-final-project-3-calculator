@@ -12,4 +12,6 @@
     <color name="red">#E14D2A</color>
     <color name="green">#557153</color>
     <color name="blue">#5837D0</color>
+    <color name="operator_color">#1387AC</color>
+    <color name="parentheses_color">#B2B539</color>
 </resources>
